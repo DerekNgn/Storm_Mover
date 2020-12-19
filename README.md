@@ -2,6 +2,7 @@
 ## Nothing can stop us from moving!
 
 COMP4555 - final assignment
+gameplay link - https://drive.google.com/file/d/193O3iTiM9Dk-2w7F7Ou6MlXdsHZgmqL4/view?usp=sharing
 
 The game was written using pygame.
 The game consists of 3 files: 
@@ -18,8 +19,8 @@ Future plans:
 ◦ Implement story mode or global leaderboard
 
 Credits:
-Background - Luis Zuno; https://ansimuz.itch.io/hazy-urban-landscape
-Theme sound - https://freemusicarchive.org/music/BoxCat_Games
-Jump sound - https://freesound.org/people/sharesynth/sounds/344500/
-Point score sound - https://freesound.org/people/SRJA_Gaming/sounds/543270/
-Death sound - https://freesound.org/people/thefsoundman/sounds/118513/
+◦Background - Luis Zuno; https://ansimuz.itch.io/hazy-urban-landscape
+◦Theme sound - https://freemusicarchive.org/music/BoxCat_Games
+◦Jump sound - https://freesound.org/people/sharesynth/sounds/344500/
+◦Point score sound - https://freesound.org/people/SRJA_Gaming/sounds/543270/
+◦Death sound - https://freesound.org/people/thefsoundman/sounds/118513/
